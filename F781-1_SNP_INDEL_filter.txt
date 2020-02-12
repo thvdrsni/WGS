@@ -1,0 +1,1 @@
+track type=vcfTabix name="F781-1" description="F781-1_filter_SVS visibility=full bigDataUrl="https://raw.githubusercontent.com/stvdsomp/WGS/blob/master/F781-1_SNP_INDEL_filter.vcf.gz"
